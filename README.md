@@ -35,4 +35,6 @@ My name Alex. I am frontend-developer
 <img src="https://avatars.mds.yandex.net/get-zen_doc/1101877/pub_5c1008a546ef5c00aaa82375_5c1008b446ef5c00aaa82377/orig" style="height:50px" title="Git"/>
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--UHNYqALK--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pcke3bhzth9o9joublyv.png" style="height:50px" title="Jest"/>
 </div>
-
+<hr>
+<h3>Contact me</h3>
+<a href="https://t.me/Alexey_Gunin"><img src="https://r58.fss.ru/files/494001/unnamed.jpg" alt="telegram" height=50/></a>
