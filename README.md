@@ -37,4 +37,4 @@ My name Alex. I am frontend-developer
 </div>
 <hr>
 <h3>Contact me</h3>
-<a href="https://t.me/Alexey_Gunin"><img src="https://r58.fss.ru/files/494001/unnamed.jpg" alt="telegram" height=50/></a>
+<a href="https://t.me/Alexey_Gunin"><img src="https://eam.su/wp-content/uploads/tg.png" alt="telegram" height=50/></a>
