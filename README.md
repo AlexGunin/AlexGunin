@@ -1,3 +1,12 @@
+<style>
+ul>li {
+  list-style:none;
+}
+li>img {
+  margin-right:10px;
+  }
+</style>
+
 ### Hi there👋
 My name Alex. I am frontend-developer
 <hr>
