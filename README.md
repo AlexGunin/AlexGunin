@@ -1,6 +1,6 @@
 ### Hi there👋
 My name Alex. I am frontend-developer
-
+<hr>
 
 const [improveToday, setImproveToday] = useState({})
 
