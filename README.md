@@ -22,5 +22,5 @@ My name Alex. I am frontend-developer
 </ul>
 <hr>
 <h3>Languages and tools</h3>
-<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" style="width:25px"/>
-<img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" style="width:25px"/>
+<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" style="width:40px"/>
+<img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" style="width:40px"/>
