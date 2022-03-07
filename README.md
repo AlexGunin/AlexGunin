@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi 👋
+My name Alex. I am frontend-developer
 <!--
 **AlexGunin/AlexGunin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
