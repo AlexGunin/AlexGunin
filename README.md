@@ -23,6 +23,8 @@ My name Alex. I am frontend-developer
 <hr>
 <h3>Languages and tools</h3>
 <div>
+  ![image](https://user-images.githubusercontent.com/88939164/157068280-ed2b3177-4295-4967-85f1-fb5c161e0252.png)
+
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" style="width:40px"/>
 <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" style="width:40px"/>
 <img src="https://yandex-images.clstorage.net/5hHu3E182/602bddXlZo/Kyi1--uwMARDSuOOBELEFtS_fb_mGYwatN_URPNKLGj-5CpO1XblQVuaRXLsSY5GFmqBblECut6J8Fy3RERIPWxw9rfwrn8OQkrggw1ZzRHft3K34g2LGOyIz0D_WyM95fVzTO9IwmEppz9GlW2jbFc43m4NTaCdmZ5nujQEMWE2OavX1blvBVVTmo4xVsEY-dRbl_pZv0aH_71T1H5pPNrOCwTGfvJUOJcBZrNzknFpGsVAC3rHga2xVvEzCxNiKgGo4v2NVyhIWp2SKH3COOj0WpTdf4JGqPWRUNFIThPc4Dsw0230QhuqBl6rYo9DViH1aTlPwaOkqED0GRAUQRcri-zbt0QGcHiFry5Z9xTVwX6-91KgVZT0i1fQSUEP7OQaHulcwm0blhtNqFuhU1cc6XoBYcGOiJF9yDU0D0MYB5n-0ql7EWZwvYQhTvYdy9Z0qepYsUeV4rhY105qP_v2IjrIbsJjDLolfK5hrnVKHv5PPmDmjbWteegoNT9nPyCy49iQXBNfW6KvMGbhPu_mVpzUZ4Z3j_WQbftdXBHf6Dkr-G7TWhGXNFOwSbtxZA_qZh1UzYOvjGnYOCQDcSsdmfb7hlswTWu1sg5kzgLv3GCp2GedSbHfjkbTQlsxx8IlBdtUxEcnnSh2jnmZb0wq-UMPY_2tqKh1_zwQOHA4M4Pp_Zl2O0ZJo5AgRuob3OhdlcJEqmuJ17FD625NN_7TCS71YOdzMrcde4lErFBhC95mBHT8iZyOcdQUJQteKySV8uObdw9XWIiyKF_QMefWW7L0f6xCsfKnRfd6TjPe5yMqxHDRZj2yP0KdSIlgSB7eQj5z6Z-WlXb0PTc8WBskq9P3mVwBbHCunAd18T3uyWuM02Swc6z_ulvZYHs92dc5GdNixE4FnhNFuGGMbncWwUM4V8WftqNQ7DkbI3oTLpDR0LdSCFNan5QgQfc-4MZFrv9Av1OK7KJy3UU" style="width:40px" title="Redux"/>
