@@ -40,7 +40,7 @@ My name Alex. I am frontend-developer
 <h4>Bulls and Cows</h4>
 <img src="https://media.giphy.com/media/KEPCpHVmOHcWdInmN5/giphy.gif" width="400" height="200"/>
 <h4> Dots </h4>
-<img src="https://media.giphy.com/media/dnjP4o6rFFfza24T9n/giphy-downsized-large.gif" width="400" height="200"/>
+<img src="https://media.giphy.com/media/dnjP4o6rFFfza24T9n/giphy.gif" width="400" height="200"/>
 <hr>
 <h3>Contact me</h3>
 <a href="https://t.me/Alexey_Gunin"><img src="https://eam.su/wp-content/uploads/tg.png" alt="telegram" height=50/></a>
