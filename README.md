@@ -38,7 +38,7 @@ My name Alex. I am frontend-developer
 <hr>
 <h3>Last projects</h3>
 <h4>Bulls and Cows</h4>
-<img src="https://media.giphy.com/media/KEPCpHVmOHcWdInmN5/giphy.gif" width="600" height="300"/>
+<img src="https://media.giphy.com/media/KEPCpHVmOHcWdInmN5/giphy.gif" width="400" height="200"/>
 <hr>
 <h3>Contact me</h3>
 <a href="https://t.me/Alexey_Gunin"><img src="https://eam.su/wp-content/uploads/tg.png" alt="telegram" height=50/></a>
