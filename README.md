@@ -36,11 +36,5 @@ My name Alex. I am frontend-developer
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--UHNYqALK--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pcke3bhzth9o9joublyv.png" style="height:50px" title="Jest"/>
 </div>
 <hr>
-<h3>Last projects</h3>
-<h4>Bulls and Cows</h4>
-<img src="https://media.giphy.com/media/KEPCpHVmOHcWdInmN5/giphy.gif" width="400" height="200"/>
-<h4>Memo</h4>
-<img src="https://media.giphy.com/media/6DDl294AJknK0L6W4v/giphy.gif" width="400" height="200"/>
-<hr>
 <h3>Contact me</h3>
 <a href="https://t.me/Alexey_Gunin"><img src="https://eam.su/wp-content/uploads/tg.png" alt="telegram" height=50/></a>
